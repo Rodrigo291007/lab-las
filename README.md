@@ -28,7 +28,7 @@ repositorio/
 **Paso 1.** Clonar el repositorio.
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git https://github.com/Rodrigo291007/lab-las
 ```
 
 **Paso 2.** Ingresar al proyecto.
